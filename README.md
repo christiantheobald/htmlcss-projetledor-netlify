@@ -1,5 +1,5 @@
 # htmlcss-projetledor-netlify
-Ce projet est un site web construit en utilisant du html, css, <strong>particulièrement</strong>, la mise en pratique réaliste des boites flexibles ou <strong>flexbox</strong>, en auto-formation, à l'aide de la plate-forme de formation aux technologies du web, [Dyma](https://dyma.fr). <br>
+Ce projet est un site web construit en utilisant du html, css, <strong>particulièrement</strong>, la mise en pratique réaliste des boites flexibles ou <strong>flexbox</strong>, en autoformation, à l'aide de la plateforme de formation aux technologies du web, [Dyma](https://dyma.fr). <br>
 Une démonstration en direct est disponible ici : [https://christiantheobald.github.io/htmlcss-projetledor-netlify](https://christiantheobald.github.io/htmlcss-projetledor-netlify)
 ## Comment l'utiliser
 Ce site présente plusieurs pages d'une agence immobilière fictive. <br>
